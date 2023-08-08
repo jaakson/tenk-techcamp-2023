@@ -1,0 +1,20 @@
+{
+  "html": {
+    "snippets": {
+      "c:doctype": "<!-- something something doctype -->",
+      "c:html": "<!-- something something html -->",
+      "c:head": "<!-- something something body -->",
+      "c:body": "<!-- something something body -->",
+      "head": "c:doctype+head>meta[charset=${charset}]+meta:vp+title{${1:Document}}",
+      "doc": "html[lang=${lang}]>head+body",
+      "!|html:5": "c:doctype+!!!+doc"
+    }
+  },
+  "css": {
+    "snippets": {
+      "cb": "color: black",
+      "bsd": "border: 1px solid ${1:red}",
+      "ls": "list-style: ${1}"
+    }
+  }
+}
