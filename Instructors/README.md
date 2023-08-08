@@ -9,3 +9,6 @@ Jeg har lagt opp til å lage Emmet snippets som f.eks. `tenk:html` som erstatnin
 Jeg har forsøkt å gjøre så lite fancy som mulig, og heller fokusere på hva som er enkelt å forstå. Jeg er _litt_ usikker på om vi skal ha både primitives og theme css-filer av samme årsak 🤔
 
 Victor
+
+@Victor: it looks like the primitives file was removed, so I removed the reference to it. So Line 9 might be confusing now 😅
+
