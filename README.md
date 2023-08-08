@@ -10,21 +10,23 @@ Hei 😊 Så kjekt at du vil hjelpe oss med å bli ferdig med komponentene våre
 1. Klikk på **Use this template**
 2. Velg **Create a new repository**
 
-<img alt="" src="assets/use-this-template-button.webp" width="400">
+> NOTE: Maja added content to alt tags so we follow the suggestions we ourselves will make in the workshop 😉
+
+<img alt="En dropdown åpnet under knappen «Bruk denne malen»." src="assets/use-this-template-button.webp" width="400">
 
 3. Bruk Owner dropdown menyen til å velge din egen konto
 
-<img alt="" src="assets/create-repository-owner.webp" width="400">
+<img alt="«Owner» menyen er åpen og viser to konto. Menyen vises ved siden av et «Repository» felt." src="assets/create-repository-owner.webp" width="400">
 
 4. Gi repoet ditt navnet **brukernavn.github.io**, der du bytter ut «brukernavn» med brukernavnet ditt på Github.
 
-<img alt="" src="assets/create-repository-name.webp" width="400">
+<img alt="«Repository» feltet er valgt og inneholder navnet «hello-world»." src="assets/create-repository-name.webp" width="400">
 
 5. Velg **Create repository from template**.
 
 ## Start utviklingsmiljøet ditt
 
-Når vi skriver kode, så kan vi bruke en helt vanlig tekst-program – men det er bedre å bruke et program som er laget for å skrive kode, da får vi litt hjelp av programmet som f.eks. å passe på at vi ikke skriver kode på en feil måte, å forhåndsvise det vi lager i en nettleser og så videre.
+Når vi skriver kode, så kan vi bruke en helt vanlig tekst-program – men det er bedre å bruke et program som er laget for å skrive kode. Da får vi litt hjelp av programmet som f.eks. å passe på at vi ikke skriver kode på en feil måte, å forhåndsvise det vi lager i en nettleser og så videre.
 
 En av de mest populære programmene man kan bruke er VS Code. Det kan man installere på maskinen sin, men det som er enda bedre å bruke noe som heter Codespaces. Da kan man skrive koden rett i nettleseren sin uten at man trenger å installere noe som helst. 
 
